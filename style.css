@@ -17,8 +17,25 @@ text-transform: uppercase;
 
 .twitch-table{
     padding-top:100px;
+    border-radius: 5px;
 }
 
 .table-res{
     margin: auto;
+    border-radius: 5px;
+}
+
+.table-striped{
+    border-radius: 5px;
+    box-shadow: 0 2px 3px 1px silver;
+}
+/* ID */
+#a9i{
+    border-radius: 0 0 0 5px;
+}
+#a9f{
+    border-radius: 0 0 5px 0;
+}
+#responsive-table{
+    height: 80vh;
 }
