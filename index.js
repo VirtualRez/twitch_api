@@ -11,7 +11,7 @@ $.ajax({//GET Top 10 Streamers by number of views
             top1.append(
             `<tr>
                 <th id="a${index}i"><img class="logoReduction" src="${element.channel.logo}"></img></th>
-                <td class="nameCap">${element.channel.name}</td>
+                <td class="nameCap"><strong>${element.channel.name}</strong></td>
                 <td>${element.channel.followers}</td>
                 <td>${element.viewers}</td>
                 <td id="a${index}f"><a href="${element.channel.url}" target="_blank">${element.channel.name}.twitch</a></td>
