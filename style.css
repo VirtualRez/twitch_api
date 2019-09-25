@@ -1,3 +1,7 @@
+.logoReduction{
+    border-radius: 50px;
+    height: 50px;
+}
 .nameCap::first-letter{
 text-transform: uppercase;
 }
