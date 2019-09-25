@@ -1,3 +1,7 @@
+.nameCap::first-letter{
+text-transform: uppercase;
+}
+
 .section{
     height: 500px;
     border-radius: 10px;
