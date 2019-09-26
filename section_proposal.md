@@ -22,7 +22,7 @@ Stream Platforms
 This options should be clickable and would have a dropdown where you could search for the target of interest. 
 Once you have it selected the sponsors would appear in a list.
 In the tournament section we could also show the dates of the events.
-All of this information could have a link to their respective section in order to obtain more information of it.
+All of this information could have a link to their section in order to obtain more information of it.
 ```
 ```
 Another interesting section should be a "minor streamers" chart, consisting on new streamers or teams who has 
