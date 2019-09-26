@@ -9,6 +9,7 @@ https://virtualrez.github.io/twitch_api/
 
 ## API Link
 [API Link](https://api.twitch.tv/kraken/streams)
+
 [API Documentation](https://dev.twitch.tv/docs/v5/reference/streams#get-live-streams)
 
 ## About this project
