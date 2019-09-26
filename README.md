@@ -10,7 +10,7 @@ https://virtualrez.github.io/twitch_api/
 [API Documentation](https://dev.twitch.tv/docs/v5/reference/streams#get-live-streams)
 
 ## About this project
-This project show the Top 10 Streamers at realtime using the twitch API
+This project show the Top 10 Streamers at real time using the twitch API
 
 <img src="/assets/readme_img.png"></img>
 
